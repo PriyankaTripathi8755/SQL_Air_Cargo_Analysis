@@ -33,10 +33,8 @@ A total of **20 SQL tasks** were performed as part of this project.
 
 
 ## 📚 Project Source
-This project was completed as part of the course assesment for Professional Certificate Course in Data Science by E&ICT Academy, IIT Kanpur.  
-
-- All datasets and problem statements were provided by the institute.  
-- SQL queries were independently designed and executed by me.
+This project was completed as part of the course assessment for Professional Certificate Course in Data Science by E&ICT Academy, IIT Kanpur. All datasets and problem statements were provided by the institute.  
+- SQL queries were **independently designed and executed by me**.
 
 
 ## 🛠️ Tools & Technologies
